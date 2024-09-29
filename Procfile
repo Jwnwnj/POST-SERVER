@@ -1,1 +1,1 @@
-web: python SATISH-POST.py
+web: python main.py
